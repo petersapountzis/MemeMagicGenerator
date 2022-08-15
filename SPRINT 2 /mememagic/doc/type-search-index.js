@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"mememagic2","l":"BackgroundImage"}];updateSearchResults();
